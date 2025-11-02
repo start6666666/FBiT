@@ -1,0 +1,8 @@
+/results/
+/test/
+**/__pycache__/
+**/__pycache__/**
+**/results/**
+**/test/**
+**/results/
+**/.idea/**
